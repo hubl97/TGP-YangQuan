@@ -1,0 +1,510 @@
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\NewTGP.exe
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\NewTGP.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\Administrator\Desktop\TGP\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\Administrator\Desktop\TGP\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\Administrator\Desktop\TGP\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\Administrator\Desktop\TGP\NewTGP\obj\x86\Debug\NewTGP.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TGP\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\Administrator\Desktop\TGP\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\Administrator\Desktop\TGP\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\Administrator\Desktop\TGP\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TGP\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.Cache
+D:\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.exe
+D:\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.pdb
+D:\TGP20220715\NewTGP\bin\Debug\NewTGP.exe
+D:\TGP20220715\NewTGP\bin\Debug\NewTGP.pdb
+D:\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+D:\TGP20220715\NewTGP\bin\Debug\PRC_Tool.dll
+D:\TGP20220715\NewTGP\bin\Debug\SpeechSDK.dll
+D:\TGP20220715\NewTGP\bin\Debug\CTCClientCmd.dll
+D:\TGP20220715\NewTGP\bin\Debug\CIPS.MQ.dll
+D:\TGP20220715\NewTGP\bin\Debug\CIPS.Graph.dll
+D:\TGP20220715\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+D:\TGP20220715\NewTGP\bin\Debug\SpeechSDK.pdb
+D:\TGP20220715\NewTGP\bin\Debug\PRC_Tool.pdb
+D:\TGP20220715\NewTGP\bin\Debug\PRC_Tool.xml
+D:\TGP20220715\NewTGP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+D:\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+D:\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+D:\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+D:\TGP20220715\NewTGP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TGP20220715\NewTGP\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\work\tgp\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.exe
+E:\work\tgp\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.pdb
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\NewTGP.exe
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\NewTGP.pdb
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\PRC_Tool.dll
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\SpeechSDK.dll
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\CTCClientCmd.dll
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\CIPS.MQ.dll
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\CIPS.Graph.dll
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\SpeechSDK.pdb
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\PRC_Tool.pdb
+E:\work\tgp\TGP20220715\NewTGP\bin\Debug\PRC_Tool.xml
+E:\work\tgp\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csprojResolveAssemblyReference.cache
+E:\work\tgp\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+E:\work\tgp\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+E:\work\tgp\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+E:\work\tgp\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+E:\work\tgp\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.Cache
+E:\work\tgp\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+D:\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\现场程序20220719 - 副本\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.pdb
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.exe
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.pdb
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\NewTGP.exe
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\NewTGP.pdb
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.dll
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\SpeechSDK.dll
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CTCClientCmd.dll
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.MQ.dll
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.Graph.dll
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\SpeechSDK.pdb
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.pdb
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.xml
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\现场程序20220721现场 - 2改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.pdb
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.exe
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.pdb
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\NewTGP.exe
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\NewTGP.pdb
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.dll
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\SpeechSDK.dll
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.MQ.dll
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CTCClientCmd.dll
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.Graph.dll
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\SpeechSDK.pdb
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.pdb
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.xml
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.exe
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.pdb
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\NewTGP.exe
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\NewTGP.pdb
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.dll
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\SpeechSDK.dll
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.MQ.dll
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CTCClientCmd.dll
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.Graph.dll
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\SpeechSDK.pdb
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.pdb
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\bin\Debug\PRC_Tool.xml
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\现场程序20220722现场 - 改\现场程序20220722现场 - 改\现场程序20220720 - 改\TGP20220715\NewTGP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGP20220715\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGP2.0\NewTGP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGP2.0 -test\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGPX4 -test\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\Git管理TGP\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\NewTGP.pdb
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.TGPDisp.resources
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.TGPConfig.resources
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.PSWPage.resources
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.Properties.Resources.resources
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.Quit.resources
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.csproj.CopyComplete
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.exe
+C:\Users\hubl9\Desktop\1121调试\TGPX4 -语音模块 - 第一行改\NewTGP\obj\x86\Debug\NewTGP.pdb

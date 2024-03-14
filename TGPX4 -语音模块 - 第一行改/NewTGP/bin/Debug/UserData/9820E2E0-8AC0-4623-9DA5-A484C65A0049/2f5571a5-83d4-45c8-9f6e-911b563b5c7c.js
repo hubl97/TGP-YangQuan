@@ -1,0 +1,4 @@
+var picDate ={"mediaEle":[{"background":"#000000","bold":0,"borderEffect":0,"borderSW":0,"borderSpeed":0,"borderType":0,"colorEffect":0,"fontColor":"#00ff00","fontFamily":"黑体","fontSize":21,"fontStyle":"","fontWeight":"","height":64,"id":2,"italic":0,"left":0,"lineHeight":12,"pauseTime":5,"rotation":0,"scrollSpeed":"10","siderType":0,"text":"��Ļ","textAlign":"left","textDecoration":"","textGroup":[{"id":0,"name":"��Ļ","text":"测试测试102223"}],"textLine":0,"textShow":0,"textTop":1,"top":0,"type":2,"width":256,"zIndex":1}],"pageEle":[{"bgColor":"#000000","bgImg":"","bgName":"","eqType":"Q5","pageTime":20}]};var imgList=[{"domainId":"2","imageList":["Text/0/2/Text_0000.png"]}];var picList=[]
+;var pptList=[]
+;var wordList=[]
+;function callback(){return picDate;}function textImgList(){return imgList;}function pdfPicList(){return picList;}function pptPicList(){return pptList;}function wordPicList(){return wordList;}

@@ -1,0 +1,508 @@
+D:\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\TWInterface\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\zhuxiangyu\Desktop\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\zhuxiangyu\Desktop\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\TWInterface20150901\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\TWInterface20150901\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\TWInterface20150901\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\TWInterface20150901\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\TWInterface20150901\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\TWInterface20150906\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\TWInterface20150906\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\TWInterface20150906\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\TWInterface20150906\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\TWInterface20150906\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\zhuxiangyu\Desktop\TWInterface20150906\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface20150906\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\zhuxiangyu\Desktop\TWInterface20150906\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csprojResolveAssemblyReference.cache
+C:\Users\zhuxiangyu\Desktop\TWInterface20150906\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface20150906\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\zhuxiangyu\Desktop\TWInterface20150908\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface20150908\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\zhuxiangyu\Desktop\TWInterface20150908\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface20150908\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\TW接口程序\TWInterface20150908\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\TW接口程序\TWInterface20150908\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\TW接口程序\TWInterface20150908\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\TW接口程序\TWInterface20150908\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\TW接口程序\TWInterface20150908\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\TW接口程序\TWInterface20150909\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\TW接口程序\TWInterface20150909\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\TW接口程序\TWInterface20150909\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\TW接口程序\TWInterface20150909\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\TW接口程序\TWInterface20150909\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\TW接口程序\TWInterface20150910\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\TW接口程序\TWInterface20150910\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\TW接口程序\TWInterface20150910\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\TW接口程序\TWInterface20150910\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\TW接口程序\TWInterface20150910\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\TW接口程序\TWInterface20150910\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\TW接口程序\TWInterface20150910\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\TW接口程序\TWInterface20150910\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\TW接口程序\TWInterface20150910\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\TW接口程序\TWInterface20150910\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\zhuxiangyu\Desktop\TWInterface20150911\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface20150911\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\zhuxiangyu\Desktop\TWInterface20150911\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface20150911\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface20150911\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface20150911\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface20150911\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface20150911\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\zhuxiangyu\Desktop\TWInterface20150911\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\zhuxiangyu\Desktop\TWInterface20150911\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csprojResolveAssemblyReference.cache
+D:\TW接口程序\TWInterface20150911\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\TW接口程序\TWInterface20150911\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\TW接口程序\TWInterface20150911\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\TW接口程序\TWInterface20150911\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\TW接口程序\TWInterface20150911\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\TW接口程序\TWInterface20150911\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\TW接口程序\TWInterface20150911\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\TW接口程序\TWInterface20150911\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\TW接口程序\TWInterface20150911\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\TW接口程序\TWInterface20150911\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\zhuxiangyu\Desktop\TW\TWInterface20151202\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\zhuxiangyu\Desktop\TW\TWInterface20151202\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\zhuxiangyu\Desktop\TW\TWInterface20151202\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\zhuxiangyu\Desktop\TW\TWInterface20151202\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\zhuxiangyu\Desktop\TW\TWInterface20151202\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\zhuxiangyu\Desktop\TW\TWInterface20151202\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\zhuxiangyu\Desktop\TW\TWInterface20151202\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\zhuxiangyu\Desktop\TW\TWInterface20151202\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csprojResolveAssemblyReference.cache
+C:\Users\zhuxiangyu\Desktop\TW\TWInterface20151202\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\zhuxiangyu\Desktop\TW\TWInterface20151202\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Documents and Settings\Administrator\桌面\TWInterface20151202\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Documents and Settings\Administrator\桌面\TWInterface20151202\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Documents and Settings\Administrator\桌面\TWInterface20151202\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Documents and Settings\Administrator\桌面\TWInterface20151202\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Documents and Settings\Administrator\桌面\TWInterface20151202\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Documents and Settings\Administrator\桌面\TWInterface20151202\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Documents and Settings\Administrator\桌面\TWInterface20151202\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Documents and Settings\Administrator\桌面\TWInterface20151202\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\TWInterface20151202\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Documents and Settings\Administrator\桌面\TWInterface20151202\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20160908\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20160908\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20160908\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\哈南TW接口20160908\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\哈南TW接口20160908\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\哈南TW接口20160908\TWInterface\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\哈南TW接口20160908\TWInterface\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\哈南TW接口20160908\TWInterface\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\哈南TW接口20160908\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20160908\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20160920\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20160920\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20160920\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\哈南TW接口20160920\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\哈南TW接口20160920\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\哈南TW接口20160920\TWInterface\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\哈南TW接口20160920\TWInterface\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\哈南TW接口20160920\TWInterface\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\哈南TW接口20160920\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20160920\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161019\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161019\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161019\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\哈南TW接口20161019\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\哈南TW接口20161019\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\哈南TW接口20161019\TWInterface\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\哈南TW接口20161019\TWInterface\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\哈南TW接口20161019\TWInterface\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\哈南TW接口20161019\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161019\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161027\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161027\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161027\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\哈南TW接口20161027\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\哈南TW接口20161027\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\哈南TW接口20161027\TWInterface\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\哈南TW接口20161027\TWInterface\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\哈南TW接口20161027\TWInterface\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\哈南TW接口20161027\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161027\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161028\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161028\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161028\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\哈南TW接口20161028\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\哈南TW接口20161028\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\哈南TW接口20161028\TWInterface\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\哈南TW接口20161028\TWInterface\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\哈南TW接口20161028\TWInterface\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\哈南TW接口20161028\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161028\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161031\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161031\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161031\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\哈南TW接口20161031\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\哈南TW接口20161031\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\哈南TW接口20161031\TWInterface\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\哈南TW接口20161031\TWInterface\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\哈南TW接口20161031\TWInterface\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\哈南TW接口20161031\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161031\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161125\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161125\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161125\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\哈南TW接口20161125\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\哈南TW接口20161125\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\哈南TW接口20161125\TWInterface\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\哈南TW接口20161125\TWInterface\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\哈南TW接口20161125\TWInterface\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\哈南TW接口20161125\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161125\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161213\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161213\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161213\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\哈南TW接口20161213\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\哈南TW接口20161213\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\哈南TW接口20161213\TWInterface\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\哈南TW接口20161213\TWInterface\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\哈南TW接口20161213\TWInterface\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\哈南TW接口20161213\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161213\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+F:\通号\CIPS资料\管理\驼峰接口\哈南TW接口\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+F:\通号\CIPS资料\管理\驼峰接口\哈南TW接口\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+F:\通号\CIPS资料\管理\驼峰接口\哈南TW接口\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+F:\通号\CIPS资料\管理\驼峰接口\哈南TW接口\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+F:\通号\CIPS资料\管理\驼峰接口\哈南TW接口\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+F:\通号\CIPS资料\管理\驼峰接口\哈南TW接口\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+F:\通号\CIPS资料\管理\驼峰接口\哈南TW接口\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+F:\通号\CIPS资料\管理\驼峰接口\哈南TW接口\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csprojResolveAssemblyReference.cache
+F:\通号\CIPS资料\管理\驼峰接口\哈南TW接口\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+F:\通号\CIPS资料\管理\驼峰接口\哈南TW接口\哈南TW接口20161216\TWInterface\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\现场程序\TW-2\新开站\哈南\接口程序\TWInterface20180320\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\现场程序\TW-2\新开站\哈南\接口程序\TWInterface20180320\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\现场程序\TW-2\新开站\哈南\接口程序\TWInterface20180320\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\现场程序\TW-2\新开站\哈南\接口程序\TWInterface20180320\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\现场程序\TW-2\新开站\哈南\接口程序\TWInterface20180320\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\现场程序\TW-2\新开站\哈南\接口程序\TWInterface20180320\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\现场程序\TW-2\新开站\哈南\接口程序\TWInterface20180320\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\现场程序\TW-2\新开站\哈南\接口程序\TWInterface20180320\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\现场程序\TW-2\新开站\哈南\接口程序\TWInterface20180320\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\现场程序\TW-2\最新程序\CIPSCommand\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\现场程序\TW-2\最新程序\CIPSCommand\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\现场程序\TW-2\最新程序\CIPSCommand\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\现场程序\TW-2\最新程序\CIPSCommand\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\现场程序\TW-2\最新程序\CIPSCommand\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\现场程序\TW-2\最新程序\CIPSCommand\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\现场程序\TW-2\最新程序\CIPSCommand\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\现场程序\TW-2\最新程序\CIPSCommand\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\现场程序\TW-2\最新程序\CIPSCommand\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\接口\CIPSCommand\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\接口\CIPSCommand\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\接口\CIPSCommand\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\接口\CIPSCommand\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\接口\CIPSCommand\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\接口\CIPSCommand\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\接口\CIPSCommand\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\接口\CIPSCommand\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\接口\CIPSCommand\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\接口\CIPSCommand\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\接口\CIPSCommand20180428\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\接口\CIPSCommand20180428\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\接口\CIPSCommand20180428\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\接口\CIPSCommand20180428\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\接口\CIPSCommand20180428\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\接口\CIPSCommand20180428\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\接口\CIPSCommand20180428\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\接口\CIPSCommand20180428\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\接口\CIPSCommand20180428\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\接口\CIPSCommand20180428\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\接口\CIPSCommand20180507\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\接口\CIPSCommand20180507\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\接口\CIPSCommand20180507\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\接口\CIPSCommand20180507\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\接口\CIPSCommand20180507\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\接口\CIPSCommand20180507\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\接口\CIPSCommand20180507\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\接口\CIPSCommand20180507\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+D:\接口\CIPSCommand20180507\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+D:\接口\CIPSCommand20180507\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\接口\CIPSCommand20180507\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\接口\CIPSCommand20180507\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\接口\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\接口\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\接口\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\接口\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\接口\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\接口\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\接口\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\接口\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+D:\接口\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+D:\接口\CIPSCommand20180521\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\接口\CIPSCommand20180521\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\接口\CIPSCommand20180521\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\station\CIPSCommand20180521\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\station\CIPSCommand20180521\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\station\CIPSCommand20180521\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+D:\station\CIPSCommand20180521\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+D:\station\CIPSCommand20180521\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\station\CIPSCommand20180521\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\station\CIPSCommand20180521\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\接口\CIPSCommand20180904\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\接口\CIPSCommand20180904\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\接口\CIPSCommand20180904\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\接口\CIPSCommand20180904\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\接口\CIPSCommand20180904\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\接口\CIPSCommand20180904\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\接口\CIPSCommand20180904\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\接口\CIPSCommand20180904\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+D:\接口\CIPSCommand20180904\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+D:\接口\CIPSCommand20180904\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\接口\CIPSCommand20180904\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\接口\CIPSCommand20180904\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\接口\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\接口\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\接口\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\接口\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\接口\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\接口\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\接口\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\接口\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+D:\接口\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+D:\接口\CIPSCommand20190708\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\接口\CIPSCommand20190708\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\接口\CIPSCommand20190708\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+E:\work\tw-2\现场\芜湖\CIPS接口\芜湖调车单\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+E:\work\tw-2\现场\芜湖\CIPS接口\芜湖调车单\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+E:\work\tw-2\现场\芜湖\CIPS接口\芜湖调车单\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+E:\work\tw-2\现场\芜湖\CIPS接口\芜湖调车单\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+E:\work\tw-2\现场\芜湖\CIPS接口\芜湖调车单\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+E:\work\tw-2\现场\芜湖\CIPS接口\芜湖调车单\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+E:\work\tw-2\现场\芜湖\CIPS接口\芜湖调车单\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+E:\work\tw-2\现场\芜湖\CIPS接口\芜湖调车单\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+E:\work\tw-2\现场\芜湖\CIPS接口\芜湖调车单\CIPSCommand20190708\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+E:\work\tw-2\现场\芜湖\CIPS接口\芜湖调车单\CIPSCommand20190708\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csprojResolveAssemblyReference.cache
+E:\work\tw-2\现场\芜湖\CIPS接口\芜湖调车单\CIPSCommand20190708\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+E:\work\tw-2\现场\芜湖\CIPS接口\芜湖调车单\CIPSCommand20190708\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+E:\work\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+E:\work\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+E:\work\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+E:\work\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+E:\work\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+E:\work\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+E:\work\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+E:\work\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+E:\work\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+E:\work\tgp\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csprojResolveAssemblyReference.cache
+E:\work\tgp\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+E:\work\tgp\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csprojAssemblyReference.cache
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CopyComplete
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CopyComplete
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CopyComplete
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\Administrator\Desktop\TGP\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\Administrator\Desktop\TGP\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\Administrator\Desktop\TGP\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\Administrator\Desktop\TGP\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\Administrator\Desktop\TGP\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\Administrator\Desktop\TGP\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\Administrator\Desktop\TGP\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\Administrator\Desktop\TGP\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\Users\Administrator\Desktop\TGP\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\Users\Administrator\Desktop\TGP\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TGP\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\Administrator\Desktop\TGP\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+D:\TGP20220715\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+D:\TGP20220715\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+D:\TGP20220715\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\TGP20220715\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+D:\TGP20220715\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+D:\TGP20220715\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+D:\TGP20220715\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+D:\TGP20220715\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+D:\TGP20220715\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+D:\TGP20220715\CIPS.CTC.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\TGP20220715\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+D:\TGP20220715\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CopyComplete
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\现场程序20220720现场 - 副本\现场程序20220720 - 改\TGP20220715\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGPX4芜湖 - 副本\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.csproj.CopyComplete
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\TGPX4 -语音模块\CIPS.CTC.NET\obj\Debug\CIPS.CTC.NET.pdb

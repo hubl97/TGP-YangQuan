@@ -1,0 +1,178 @@
+F:\LED调车单提勾屏系统开发\TGPzkz\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\LED调车单提勾屏系统开发\TGPzkz\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\LED调车单提勾屏系统开发\TGPzkz\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\LED调车单提勾屏系统开发\TGPzkz\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\LED调车单提勾屏系统开发\TGPzkz\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\LED调车单提勾屏系统开发\TGPzkz\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\LED调车单提勾屏系统开发\TGPzkz\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TGPDisp.resources
+F:\LED调车单提勾屏系统开发\TGPzkz\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.dll
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.dll
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CTCClientCmd.dll
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.MQ.dll
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Graph.dll
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Express.ConvertDat.dll
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.pdb
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.pdb
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.xml
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TGPDisp.resources
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\work\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CTCClientCmd.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.MQ.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Graph.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.pdb
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.xml
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TGPDisp.resources
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TGPDisp.resources
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hubl9\Desktop\提钩屏\tgp\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TGPDisp.resources
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TGPConfig.resources
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PSWPage.resources
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TGPDisp.resources
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TGPConfig.resources
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PSWPage.resources
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.dll
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.dll
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.MQ.dll
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CTCClientCmd.dll
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Graph.dll
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.xml
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TGPDisp.resources
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TGPConfig.resources
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PSWPage.resources
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hubl9\Desktop\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\FontAwesome.Sharp.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SpeechSDK.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CTCClientCmd.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.MQ.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Graph.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.Express.ConvertDat.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CIPS.CTC.NET.pdb
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SpeechSDK.pdb
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.pdb
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PRC_Tool.xml
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TGPDisp.resources
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TGPConfig.resources
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PSWPage.resources
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\CIPS.CTC.NET.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\PRC_Tool.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\SpeechSDK.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\CTCClientCmd.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\CIPS.MQ.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\CIPS.Graph.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\CIPS.Express.ConvertDat.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\CIPS.CTC.NET.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\SpeechSDK.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\PRC_Tool.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\bin\Debug\PRC_Tool.xml
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\WindowsFormsApplication1.TGPDisp.resources
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\WindowsFormsApplication1.TGPConfig.resources
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\WindowsFormsApplication1.PSWPage.resources
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\NewTGP\obj\x86\Debug\WindowsFormsApplication1.pdb

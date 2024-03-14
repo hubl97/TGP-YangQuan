@@ -1,0 +1,1196 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PRC_Tool</name>
+    </assembly>
+    <members>
+        <member name="T:PRC_Tool.SafeQueue">
+            <summary>
+            安全型队列
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.SafeQueue.I_MAX_COUNT">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.SafeQueue.hMutex">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.SafeQueue.Enqueue(System.Object)">
+            <summary>
+            增加数据
+            </summary>
+            <param name="obj"></param>
+        </member>
+        <member name="M:PRC_Tool.SafeQueue.Dequeue">
+            <summary>
+            移除数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.SafeQueue.Clear">
+            <summary>
+            清空数据
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.SafeQueue.Peek">
+            <summary>
+            访问数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:PRC_Tool.SafeArrayList">
+            <summary>
+            安全型链表
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.SafeArrayList.hMutex">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.SafeArrayList.Add(System.Object)">
+            <summary>
+            增加数据
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.SafeArrayList.Remove(System.Object)">
+            <summary>
+            移除数据
+            </summary>
+            <param name="obj"></param>
+        </member>
+        <member name="M:PRC_Tool.SafeArrayList.RemoveAt(System.Int32)">
+            <summary>
+            指定位置移除
+            </summary>
+            <param name="index"></param>
+        </member>
+        <member name="M:PRC_Tool.SafeArrayList.Sort">
+            <summary>
+            数据排序
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.SafeArrayList.Clear">
+            <summary>
+            数据清空
+            </summary>
+        </member>
+        <member name="T:PRC_Tool.Regist">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Regist.kt">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.Regist.Open_SubKey(Microsoft.Win32.RegistryKey,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="rk"></param>
+            <param name="subkeyname"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Regist.Create_SubKey(Microsoft.Win32.RegistryKey,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="rk"></param>
+            <param name="subkeyname"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Regist.Delete_SubKey(Microsoft.Win32.RegistryKey,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="rk"></param>
+            <param name="subkeyname"></param>
+        </member>
+        <member name="M:PRC_Tool.Regist.Close_Key(Microsoft.Win32.RegistryKey)">
+            <summary>
+            
+            </summary>
+            <param name="rk"></param>
+        </member>
+        <member name="M:PRC_Tool.Regist.SetValue(Microsoft.Win32.RegistryKey,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="rk"></param>
+            <param name="name"></param>
+            <param name="v"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Regist.DeleteValue(Microsoft.Win32.RegistryKey,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="rk"></param>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Regist.bValueExist(Microsoft.Win32.RegistryKey,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="rk"></param>
+            <param name="valuename"></param>
+            <returns></returns>
+        </member>
+        <member name="P:PRC_Tool.Regist.reg_Key">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PRC_Tool.Regist.RegistryType">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Regist.RegistryType.LocalMachine">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Regist.RegistryType.CurrentUser">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Regist.RegistryType.CurrentConfig">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PRC_Tool.CTCLogData">
+            <summary>
+            集控数据数据库存储处理
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.CTCLogData.time">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.CTCLogData.cmd">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.CTCLogData.oper">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.CTCLogData.remark">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.CTCLogData.clientip">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.CTCLogData.#ctor(System.DateTime,System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="tm"></param>
+            <param name="c"></param>
+            <param name="op"></param>
+            <param name="re"></param>
+        </member>
+        <member name="M:PRC_Tool.CTCLogData.#ctor(System.DateTime,System.String,System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="tm"></param>
+            <param name="c"></param>
+            <param name="op"></param>
+            <param name="re"></param>
+            <param name="ip"></param>
+        </member>
+        <member name="T:PRC_Tool.PRCLogData">
+            <summary>
+            通用PRC的数据库存储处理
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.PRCLogData.time">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.PRCLogData.cmd">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.PRCLogData.routes_id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.PRCLogData.event_id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.PRCLogData.fault_id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.PRCLogData.remark">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.PRCLogData.#ctor(System.DateTime,System.String,System.Int64,System.UInt16,System.UInt16,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="tm"></param>
+            <param name="cm"></param>
+            <param name="rtid"></param>
+            <param name="evid"></param>
+            <param name="faid"></param>
+            <param name="rem"></param>
+        </member>
+        <member name="T:PRC_Tool.File_LOG">
+            <summary>
+            一般文本文件记录存储处理
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.File_LOG.ar_CTCData">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.File_LOG.ar_PRCData">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.File_LOG.ar_Data">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.File_LOG.hBT">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.File_LOG.dt_Data">
+            <summary>
+            保存数据的表
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.File_LOG.dt_PRCData">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.File_LOG.H_WEB_DB">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.File_LOG.WriteLog(System.String)">
+            <summary>
+            增加日志记录，文本记录方式，以文本文件存储
+            </summary>
+            <param name="s"></param>
+        </member>
+        <member name="M:PRC_Tool.File_LOG.WriteCTC_Log(System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="c_cmd"></param>
+            <param name="c_operate"></param>
+            <param name="c_remark"></param>
+        </member>
+        <member name="M:PRC_Tool.File_LOG.WriteCTC_Log(System.String,System.String,System.String,System.String)">
+            <summary>
+            记录集控操作和事件
+            </summary>
+            <param name="c_cmd"></param>
+            <param name="c_operate"></param>
+            <param name="c_remark"></param>
+            <param name="ip"></param>
+        </member>
+        <member name="M:PRC_Tool.File_LOG.WritePRC_Log(System.String,System.Int64,System.Int16,System.Int16,System.String)">
+            <summary>
+            写PRC的操作日志
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.File_LOG.SaveFileLog">
+            <summary>
+            保存文件
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.File_LOG.SaveCTCLog">
+            <summary>
+            保存集控操作到数据库
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.File_LOG.SavePRCLog">
+            <summary>
+            保存PRC操作到数据库
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.File_LOG.DeleteFile">
+            <summary>
+            删除较早前文件
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.File_LOG.DeleteTable">
+            <summary>
+            删除较早前数据库数据
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.File_LOG.hBT_event_Interval">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:PRC_Tool.DataIO">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.DataIO.C_DB_Conn">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.DataIO.hOldDBConn">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.DataIO.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="conn"></param>
+        </member>
+        <member name="M:PRC_Tool.DataIO.SaveOneTableDataToDB(System.Data.DataTable)">
+            <summary>
+            
+            </summary>
+            <param name="dt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.DataIO.SaveDataToDB(System.Data.DataSet)">
+            <summary>
+            
+            </summary>
+            <param name="ds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.DataIO.Excute_SQLCmd(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+        </member>
+        <member name="M:PRC_Tool.DataIO.Excute_SQL(System.Data.DataSet@,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ds"></param>
+            <param name="tablename"></param>
+            <param name="sql"></param>
+        </member>
+        <member name="M:PRC_Tool.DataIO.GetTable(System.Data.DataSet@,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ds"></param>
+            <param name="tablename"></param>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.DataIO.GetTables(System.Data.DataSet@,System.String[],System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="ds"></param>
+            <param name="tables"></param>
+            <param name="sqls"></param>
+        </member>
+        <member name="M:PRC_Tool.DataIO.GetTableList(System.String,System.String)">
+            <summary>
+            获取数据库表
+            </summary>
+            <param name="dbName"></param>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="T:PRC_Tool.Tool">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Tool.dt1">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Tool.dt2">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.Tool.Squar2(System.Int32)">
+            <summary>
+            计算一个数的2的n次方
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.Squart2(System.Int32)">
+            <summary>
+            计算一个数(大于1)整除2的次方
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.BitAnd(System.Byte,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="v"></param>
+            <param name="bit"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.BitAndValue(System.UInt32,System.UInt32)">
+            <summary>
+            
+            </summary>
+            <param name="v"></param>
+            <param name="bitv"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.GetBitValue(System.Byte,System.Int32,System.Int32)">
+            <summary>
+            返回字节中指定比特转换的无符号整数
+            </summary>
+            <param name="v">8位无符号整数</param>
+            <param name="bit">起始位</param>
+            <param name="size">要转换的比特数</param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.GetDataValue(System.Byte,System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="v"></param>
+            <param name="bit0"></param>
+            <param name="size"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.HIBYTE(System.UInt16)">
+            <summary>
+            
+            </summary>
+            <param name="v"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.LOBYTE(System.UInt16)">
+            <summary>
+            
+            </summary>
+            <param name="v"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.MASK_BIT(System.Byte,System.Int32,System.Int32)">
+            <summary>
+            返回字节中指定比特位清0后的无符号整数
+            </summary>
+            <param name="v"></param>
+            <param name="bit"></param>
+            <param name="size"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.DataRowInit(System.Data.DataRow@)">
+            <summary>
+            
+            </summary>
+            <param name="row"></param>
+        </member>
+        <member name="M:PRC_Tool.Tool.DataRowInit(System.Data.DataRow)">
+            <summary>
+            
+            </summary>
+            <param name="row"></param>
+        </member>
+        <member name="M:PRC_Tool.Tool.bEqual_Buf(System.Byte[],System.Int32,System.Byte[])">
+            <summary>
+            
+            </summary>
+            <param name="big"></param>
+            <param name="index"></param>
+            <param name="small"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.LocateBuffer(System.Byte[],System.Int32,System.Int32,System.Byte[])">
+            <summary>
+            
+            </summary>
+            <param name="big"></param>
+            <param name="index"></param>
+            <param name="sz"></param>
+            <param name="small"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.IsNumber_Only(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.Roma2Char(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Tool.Char2Roma(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="T:PRC_Tool.BaseTask">
+            <summary>
+            线程任务基类
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.BaseTask.QueryPerformanceFrequency(System.Int64@)">
+            <summary>
+            获取机器主频
+            </summary>
+            <param name="PerformanceFrequency"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.BaseTask.QueryPerformanceCounter(System.Int64@)">
+            <summary>
+            获取频率计数
+            </summary>
+            <param name="PerformanceCount"></param>
+            <returns></returns>
+        </member>
+        <member name="F:PRC_Tool.BaseTask.hTaskResource">
+            <summary>
+            任务资源实例
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.BaseTask.HZ_FREQ">
+            <summary>
+            得到计数频率
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.BaseTask.#ctor(System.Int32,System.Int32,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <param name="interval"></param>
+            <param name="taskna"></param>
+        </member>
+        <member name="M:PRC_Tool.BaseTask.GetID">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.BaseTask.BaseTaskThread">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.BaseTask.GetTime_Delta(System.Int64,System.Int64)">
+            <summary>
+            
+            </summary>
+            <param name="d1"></param>
+            <param name="d2"></param>
+            <returns></returns>
+        </member>
+        <member name="E:PRC_Tool.BaseTask.event_Interval">
+            <summary>
+            站场运行事件
+            </summary>
+        </member>
+        <member name="T:PRC_Tool.BaseTask.BaseTaskResource">
+            <summary>
+            任务资源描述
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.BaseTask.BaseTaskResource.I_ID">
+            <summary>
+            任务ID
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.BaseTask.BaseTaskResource.C_Name">
+            <summary>
+            任务名称
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.BaseTask.BaseTaskResource.I_Interval">
+            <summary>
+            任务运行周期
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.BaseTask.BaseTaskResource.I_MaxRunTime">
+            <summary>
+            任务最大运行时间
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.BaseTask.BaseTaskResource.I_MinRunTime">
+            <summary>
+            任务最小运行时间
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.BaseTask.BaseTaskResource.time_Send">
+            <summary>
+            任务最近运行时间
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.BaseTask.BaseTaskResource.#ctor(System.Int32,System.String,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <param name="na"></param>
+            <param name="intv"></param>
+        </member>
+        <member name="M:PRC_Tool.BaseTask.BaseTaskResource.Serialize">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:PRC_Tool.BaseTask.Interval_Event">
+            <summary>
+            任务运行委托
+            </summary>
+        </member>
+        <member name="T:PRC_Tool.DS_DC">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.DS_DC.Tables">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.DS_DC.Clear">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.DS_DC.NewID(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="tabna"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.DS_DC.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="conn"></param>
+        </member>
+        <member name="T:PRC_Tool.DS_DC.TABLE">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.DS_DC.TABLE.hDataIO">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.DS_DC.TABLE.dataset_DC">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.DS_DC.TABLE.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="conn"></param>
+        </member>
+        <member name="M:PRC_Tool.DS_DC.TABLE.Clear">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.DS_DC.TABLE.TableChanged">
+            <summary>
+            数据表是否变化
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:PRC_Tool.DS_DC.TABLE.Item(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="tab_na"></param>
+            <returns></returns>
+        </member>
+        <member name="T:PRC_Tool.SaveDB">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.SaveDB.ar_tables">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.SaveDB.hDataIO">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.SaveDB.I_Interval">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.SaveDB.task_Save">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.SaveDB.hmutex">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.SaveDB.#ctor(PRC_Tool.DataIO)">
+            <summary>
+            
+            </summary>
+            <param name="dio"></param>
+        </member>
+        <member name="M:PRC_Tool.SaveDB.#ctor(PRC_Tool.DataIO,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="dio"></param>
+            <param name="interval"></param>
+        </member>
+        <member name="M:PRC_Tool.SaveDB.Init">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.SaveDB.task_Save_event_Interval">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.SaveDB.Add(System.Data.DataTable)">
+            <summary>
+            
+            </summary>
+            <param name="dt"></param>
+            <returns></returns>
+        </member>
+        <member name="T:PRC_Tool.Host">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.Host.GetCpuID">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Host.GetMacAddress">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Host.GetIPAddress">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Host.GetDiskID">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Host.GetUserName">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Host.GetSystemType">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Host.GetTotalPhysicalMemory">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Host.GetComputerName">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:PRC_Tool.CRC_BCC">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.CRC_BCC.CRC_KEY_">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.CRC_BCC.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.CRC_BCC.CRC_8Bit(System.Byte[])">
+            <summary>
+            
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.CRC_BCC.CRC16(System.Byte[],System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="buffer"></param>
+            <param name="count"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.CRC_BCC.CRC_16Bit(System.Byte[],System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="dataStream"></param>
+            <param name="len"></param>
+            <returns></returns>
+        </member>
+        <member name="T:PRC_Tool.ComboData">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.ComboData.id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.ComboData.text">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.ComboData.name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.ComboData.#ctor(System.Int32,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+        </member>
+        <member name="M:PRC_Tool.ComboData.#ctor(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="na"></param>
+            <param name="y"></param>
+        </member>
+        <member name="M:PRC_Tool.ComboData.ToString">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:PRC_Tool.DNSTool">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.DNSTool.GetLocalIP">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.DNSTool.GetLocalIPString(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="bip"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.DNSTool.GetHostName">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.DNSTool.GetLocalIPString">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:PRC_Tool.Convert">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.Convert.Bytes2Struct(System.Byte[],System.Int32,System.Type)">
+            <summary>
+            把Bytes[]转换为结构
+            </summary>
+            <param name="data"></param>
+            <param name="off"></param>
+            <param name="str_type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Convert.String2Bytes(System.String)">
+            <summary>
+            字符串转换为Byte[]
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Convert.Struct2Bytes(System.Object,System.Type)">
+            <summary>
+            结构序列化为连续的Byte[]
+            </summary>
+            <param name="obj"></param>
+            <param name="str_type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Convert.BinarySerializeObj(System.Object,System.Byte[]@)">
+            <summary>
+            微软的字节流序列化
+            </summary>
+            <param name="obj"></param>
+            <param name="send"></param>
+        </member>
+        <member name="M:PRC_Tool.Convert.BinaryDesrializeObj(System.Byte[],System.Object@)">
+            <summary>
+            反序列化
+            </summary>
+            <param name="send"></param>
+            <param name="obj"></param>
+        </member>
+        <member name="M:PRC_Tool.Convert.ConvertBinary_String(System.Byte[],System.String@)">
+            <summary>
+            把二进制字节流转换为字符串
+            </summary>
+            <param name="b"></param>
+            <param name="ss"></param>
+        </member>
+        <member name="M:PRC_Tool.Convert.ConvertBinary_String(System.Byte[],System.Int32,System.String@)">
+            <summary>
+            
+            </summary>
+            <param name="b"></param>
+            <param name="len"></param>
+            <param name="ss"></param>
+        </member>
+        <member name="M:PRC_Tool.Convert.ConvertByte_String(System.Byte)">
+            <summary>
+            把一个Byte转换为以16进制显示的字符串
+            </summary>
+            <param name="b"></param>
+        </member>
+        <member name="M:PRC_Tool.Convert.Read(System.Data.DataSet@,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ds"></param>
+            <param name="filena"></param>
+        </member>
+        <member name="M:PRC_Tool.Convert.Write(System.Data.DataSet,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ds"></param>
+            <param name="filena"></param>
+        </member>
+        <member name="T:PRC_Tool.Queue_Cir">
+            <summary>
+            圆形缓冲区
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Queue_Cir.I_Head_Len">
+            <summary>
+            包头长度
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Queue_Cir.I_TextLen_Pos">
+            <summary>
+            正文长度位置
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Queue_Cir.I_CRC_LEN">
+            <summary>
+            CRC校验长度
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Queue_Cir.I_MIN_PAK_SIZE">
+            <summary>
+            最小包长包头+CRC
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Queue_Cir.I_SIZE">
+            <summary>
+            缓冲区大小
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Queue_Cir.Data">
+            <summary>
+            缓冲区定义
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Queue_Cir.Data_Bak">
+            <summary>
+            缓冲区备份
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Queue_Cir.I_HEAD">
+            <summary>
+            头指针
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Queue_Cir.I_TAIL">
+            <summary>
+            尾指针
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Queue_Cir.hMutex">
+            <summary>
+            处理互斥
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.Queue_Cir.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.Queue_Cir.#ctor(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="size"></param>
+        </member>
+        <member name="M:PRC_Tool.Queue_Cir.Reset">
+            <summary>
+            初始化缓冲区
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.Queue_Cir.Add(System.Byte[])">
+            <summary>
+            增加数据
+            </summary>
+            <param name="d"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Queue_Cir.Add(System.Byte[],System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="d"></param>
+            <param name="len"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Queue_Cir.Read">
+            <summary>
+            读取数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PRC_Tool.Queue_Cir.Read_To(System.Byte,System.Byte)">
+            <summary>
+            按照包头、包尾条件读取
+            </summary>
+            <param name="d_h"></param>
+            <param name="d_t"></param>
+            <returns></returns>
+        </member>
+        <member name="F:PRC_Tool.Queue_Cir.ar_Head">
+            <summary>
+            根据TBZK驼峰协议确定的数据读取部分,包头
+            </summary>
+        </member>
+        <member name="F:PRC_Tool.Queue_Cir.ar_Head_tmp">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.Queue_Cir.Read_HumpTBZK">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:PRC_Tool.Queue_Cir.bEmpty">
+            <summary>
+            判断缓冲区是否空
+            </summary>
+        </member>
+        <member name="P:PRC_Tool.Queue_Cir.bFull">
+            <summary>
+            判断缓冲区是否满
+            </summary>
+        </member>
+        <member name="T:PRC_Tool.IOSTool">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:PRC_Tool.IOSTool.GetOperatingSystemName">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

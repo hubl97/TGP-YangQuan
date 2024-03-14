@@ -1,0 +1,60 @@
+D:\TH\RPS_TH20171111写日志客户端\通用程序\SpeechSDK\bin\Debug\SpeechSDK.dll
+D:\TH\RPS_TH20171111写日志客户端\通用程序\SpeechSDK\bin\Debug\SpeechSDK.pdb
+D:\TH\RPS_TH20171111写日志客户端\通用程序\SpeechSDK\obj\Debug\SpeechSDK.csprojResolveAssemblyReference.cache
+D:\TH\RPS_TH20171111写日志客户端\通用程序\SpeechSDK\obj\Debug\SpeechSDK.dll
+D:\TH\RPS_TH20171111写日志客户端\通用程序\SpeechSDK\obj\Debug\SpeechSDK.pdb
+E:\zxq\TH\Program\通用程序\SpeechSDK\bin\Debug\SpeechSDK.dll
+E:\zxq\TH\Program\通用程序\SpeechSDK\bin\Debug\SpeechSDK.pdb
+E:\zxq\TH\Program\通用程序\SpeechSDK\obj\Debug\SpeechSDK.csprojResolveAssemblyReference.cache
+E:\zxq\TH\Program\通用程序\SpeechSDK\obj\Debug\SpeechSDK.dll
+E:\zxq\TH\Program\通用程序\SpeechSDK\obj\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\SpeechSDK\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\SpeechSDK\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\SpeechSDK\obj\Debug\SpeechSDK.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\SpeechSDK\obj\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\SpeechSDK\obj\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\tgp改\WindowsFormsApplication1\SpeechSDK\obj\Debug\SpeechSDK.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\SpeechSDK\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\SpeechSDK\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\SpeechSDK\obj\Debug\SpeechSDK.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\SpeechSDK\obj\Debug\SpeechSDK.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\SpeechSDK\obj\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\tgp改 -串口\WindowsFormsApplication1\SpeechSDK\obj\Debug\SpeechSDK.pdb
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\SpeechSDK\bin\Debug\SpeechSDK.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\SpeechSDK\bin\Debug\SpeechSDK.pdb
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\SpeechSDK\obj\Debug\ResolveAssemblyReference.cache
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\SpeechSDK\obj\Debug\SpeechSDK.dll
+D:\tgp改 -串口 - 双屏\WindowsFormsApplication1\SpeechSDK\obj\Debug\SpeechSDK.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\SpeechSDK\bin\Debug\SpeechSDK.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\SpeechSDK\bin\Debug\SpeechSDK.pdb
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\SpeechSDK\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\SpeechSDK\obj\Debug\SpeechSDK.dll
+C:\Documents and Settings\czy.MAINTANCE\桌面\TGP\SpeechSDK\obj\Debug\SpeechSDK.pdb
+C:\Users\Administrator\Desktop\TGP\SpeechSDK\bin\Debug\SpeechSDK.dll
+C:\Users\Administrator\Desktop\TGP\SpeechSDK\bin\Debug\SpeechSDK.pdb
+C:\Users\Administrator\Desktop\TGP\SpeechSDK\obj\Debug\SpeechSDK.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TGP\SpeechSDK\obj\Debug\SpeechSDK.dll
+C:\Users\Administrator\Desktop\TGP\SpeechSDK\obj\Debug\SpeechSDK.pdb
+D:\TGP20220715\SpeechSDK\bin\Debug\SpeechSDK.dll
+D:\TGP20220715\SpeechSDK\bin\Debug\SpeechSDK.pdb
+D:\TGP20220715\SpeechSDK\obj\Debug\ResolveAssemblyReference.cache
+D:\TGP20220715\SpeechSDK\obj\Debug\SpeechSDK.dll
+D:\TGP20220715\SpeechSDK\obj\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\SpeechSDK\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\SpeechSDK\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\SpeechSDK\obj\Debug\SpeechSDK.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\SpeechSDK\obj\Debug\SpeechSDK.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\SpeechSDK\obj\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGP2.0 -岳阳 - 语音\SpeechSDK\obj\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -test\SpeechSDK\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\SpeechSDK\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGP2.0 -test\SpeechSDK\obj\Debug\SpeechSDK.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGP2.0 -test\SpeechSDK\obj\Debug\SpeechSDK.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGP2.0 -test\SpeechSDK\obj\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGP2.0 -test\SpeechSDK\obj\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGPX4 -test\SpeechSDK\bin\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\SpeechSDK\bin\Debug\SpeechSDK.pdb
+C:\Users\hubl9\Desktop\TGPX4 -test\SpeechSDK\obj\Debug\SpeechSDK.csproj.AssemblyReference.cache
+C:\Users\hubl9\Desktop\TGPX4 -test\SpeechSDK\obj\Debug\SpeechSDK.csproj.CoreCompileInputs.cache
+C:\Users\hubl9\Desktop\TGPX4 -test\SpeechSDK\obj\Debug\SpeechSDK.dll
+C:\Users\hubl9\Desktop\TGPX4 -test\SpeechSDK\obj\Debug\SpeechSDK.pdb

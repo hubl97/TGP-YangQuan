@@ -1,0 +1,5 @@
+E:\work\tgp\WindowsFormsApplication1\PRC_Tool\bin\x86\Release\PRC_Tool.dll
+E:\work\tgp\WindowsFormsApplication1\PRC_Tool\bin\x86\Release\PRC_Tool.pdb
+E:\work\tgp\WindowsFormsApplication1\PRC_Tool\obj\x86\Release\PRC_Tool.csprojResolveAssemblyReference.cache
+E:\work\tgp\WindowsFormsApplication1\PRC_Tool\obj\x86\Release\PRC_Tool.dll
+E:\work\tgp\WindowsFormsApplication1\PRC_Tool\obj\x86\Release\PRC_Tool.pdb
